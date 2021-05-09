@@ -2,7 +2,7 @@
   "name": "feinervalencia",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://feinvalencia.github.io/",
+  "homepage": "https://feinvalencia.github.io/el-nucleo/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
